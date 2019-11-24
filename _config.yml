@@ -6,7 +6,7 @@ email: zcs0126@gmail.com
 description: ""
 keyword: ""
 url: "http://chenshu.me"              # your host, for absolute URL
-baseurl: "/chenshu"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
